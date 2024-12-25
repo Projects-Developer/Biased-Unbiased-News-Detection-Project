@@ -1,6 +1,8 @@
 # Biased-Unbiased-News-Detection-Project
 Biased & Unbiased News Detection Project Code, Document And Video Tutorial
 
+![Biasedunbieased](https://github.com/user-attachments/assets/a074d5cc-9969-4895-901e-41f6bdc2ba9d)
+
 ## Youtube link: https://youtu.be/RFl0Y-uI-JU?si=sjYb7WRdQUoiUFn4
 
 ## Abstract:
